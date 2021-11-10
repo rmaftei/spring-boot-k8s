@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "knote.uploadDir",
+      "type": "java.lang.String",
+      "description": "Description for knote.uploadDir."
+  }
+] }
